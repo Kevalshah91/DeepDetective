@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Content Authenticity Checker</title>
+</head>
+<body>
+    <h1>Content Authenticity Checker</h1>
+    <form method="POST" action="/">
+        <label for="url">Enter URL:</label>
+        <input type="text" id="url" name="url" required>
+        <input type="submit" value="Check">
+    </form>
+    {% if auth_result %}
+        <h2>Authenticity Result:</h2>
+        <p>{{ auth_result }}</p>
+        {% if summary %}
+            <h2>Summary:</h2>
+            <p>{{ summary }}</p>
+        {% endif %}
+    {% endif %}
+</body>
+</html>
