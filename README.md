@@ -6,6 +6,11 @@ Welcome to DeepDetective – Your Trusted Solution for Deepfake Detection and Co
 
 DeepDetective is an advanced web application designed to combat the proliferation of deepfake content by accurately identifying and verifying the authenticity of various media types, including text, images, and videos. Leveraging cutting-edge deep learning and machine learning models, DeepDetective provides a reliable platform to analyze and assess the credibility of uploaded content, empowering users to distinguish between genuine and manipulated media.
 
+## Presentation
+
+Check out our presentation to learn more about DeepDetective:
+- [DeepDetective Presentation](https://pitch.com/v/deepdetective-g5-hxca54)
+
 ## Features
 
 - **Deepfake Detection:** Utilize state-of-the-art deep learning models to identify and flag deepfake images and videos.
