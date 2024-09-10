@@ -16,11 +16,21 @@ Check out our presentation to learn more about DeepDetective:
 - **Deepfake Detection:** Utilize state-of-the-art deep learning models to identify and flag deepfake images and videos.
 - **Text Authenticity Verification:** Analyze text content to detect plagiarism and identify manipulated or misleading information.
 - **Image Integrity Check:** Verify the authenticity of images by detecting alterations or manipulations.
+  
+  ![PHOTO-2024-09-10-14-21-22](https://github.com/user-attachments/assets/1f884b4a-4994-41d0-a391-d33f639977e3)
+
 - **Video Integrity Assessment:** Assess the integrity of video content by detecting signs of deepfake manipulation.
+  
+  ![PHOTO-2024-09-10-14-21-23](https://github.com/user-attachments/assets/3a4095af-b2ea-4136-8413-df8386a283f4)
+
 - **User-Friendly Interface:** Intuitive web interface for easy content upload and result interpretation.
-- **Scalable Architecture:** Built on scalable infrastructure to handle large volumes of content processing efficiently.
-- **Security Measures:** Robust security features ensure user data privacy and protection.
+  
+  <img width="880" alt="Screenshot 2024-09-10 at 2 35 49 PM" src="https://github.com/user-attachments/assets/e3154f00-a6eb-4dbb-80e1-0d503b19b0cb">
+
 - **Web Extension:** Extend the functionality of DeepDetective with our web extension, allowing users to verify content authenticity directly from their web browser.
+  
+  ![PHOTO-2024-09-10-14-21-22 2](https://github.com/user-attachments/assets/54233b40-817a-499b-97c5-421ea48a2de1)
+
 - **Mobile App:** Access DeepDetective on the go with our mobile app developed using Flutter and TensorFlow Lite (TFLite), enabling users to verify content authenticity using their smartphones.
 
 
